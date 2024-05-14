@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
   // baseURL: "http://localhost:5000",
-  baseURL: "https://stack-backend.mangomoss-c0d4065b.eastasia.azurecontainerapps.io",
+  baseURL: "https://server-1.azurewebsites.net/",
 
 });
 
